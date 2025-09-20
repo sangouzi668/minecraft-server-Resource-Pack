@@ -6,6 +6,6 @@
 
 ----------
 
-**<span style="color:red">未经允许 严禁修改相关或删除相关文件</span>**
+<span style="color:red"><strong>未经允许 严禁修改相关或删除相关文件</strong></span>
 
 ----------
